@@ -1,0 +1,14 @@
+{
+  "name": "heroku-demo",
+  "version": "1.0.0",
+  "description": "heroku demo app for amis",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "author": "CIndy Berghuizen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
